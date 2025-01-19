@@ -1,1 +1,0 @@
-# this topic includes only theoretical things, and you can do nothing with python.
